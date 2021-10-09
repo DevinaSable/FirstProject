@@ -3,4 +3,4 @@ from django.shortcuts import render
 # Create your views here.
 from django.http import HttpResponse
 def index(request):
-    return HttpResponse(" Hello World..   Wecome to Pyrack.. This project uses Python, Django and GitHub")
+    return HttpResponse(" Hello World..   Wecome to Pyrack.. This project uses Python, Django and GitHub & Git too...!")
